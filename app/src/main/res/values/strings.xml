@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lists</string>
+    <string name="add_list">Add List</string>
+    <string name="add_item">Add Item</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="item_description">Item Description</string>
+    <string name="delete_checked">Delete Checked</string>
+    <string name="sort_by_checked">Sort By Checked</string>
+    <string name="sort_by_unchecked">Sort By Unchecked</string>
+    <string name="sort_A_Z">Sort A-Z</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="no_retrieval">Once deleted, you will not be able to retrieve this list.</string>
+    <string name="no_retrieving_items">Once deleted, you will not be able to retrieve the items.</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/delete_checked"
+        android:title="@string/delete_checked"/>
+    <item
+        android:id="@+id/sort_by_checked"
+        android:title="@string/sort_by_checked"/>
+    <item
+        android:id="@+id/sort_by_unchecked"
+        android:title="@string/sort_by_unchecked"/>
+    <item
+        android:id="@+id/sort_A_Z"
+        android:title="@string/sort_A_Z"/>
+</menu>
